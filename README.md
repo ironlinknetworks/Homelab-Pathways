@@ -12,7 +12,7 @@ This guide walks through a rough development of my own personal homelab and the 
 ## Table of Contents
 1. [Getting Started](#getting-started)
 2. [Pihole](#pihole) - Block trackers and protect your privacy with this simple DNS project
-3. [VPN Recommendations](#vpn) - Protect all your devices on your network and your phone on your phone on your daily travels
+3. [VPN Recommendations](#vpn-recommendations) - Protect all your devices on your network and your phone on your phone on your daily travels
 4. [Home Networking Equipment](homenet) - Customized devices to improve connectivity, security, and privacy across your home
 5. [Mini PC](mini) - Great place to start for home services
 6. [Home NAS](nas) - Tired of paying for cloud services and subscriptions? Take a look at a home NAS.
@@ -35,7 +35,8 @@ Link 4: [TechHut What's on my Home Server](https://youtu.be/yUyxJr2xboI?si=aBudJ
 
 [Back to top](#readme)
 
-## Pihole - Send the trackers into a black home and take back your data
+## Pihole
+## Send the trackers into a black home and take back your data
 
 If you watched the videos in the previous post, you should have and idea of what DNS does on your network. For the older crowd, DNS works like a phone book for the internet. For the younger crowd, DNS translates IP addresses into the common names and websited you use every day. DNS is one of the backbones of the Modern Internet. If you have a baseline configured system from your internet service provider or cellular provider, you are likely using their DNS server. This allows your ISP/cellular provider to gain information on the websites you visit and gather metrics on their customer base. There are also many free options out there you can set as a default other than your ISP's DNS. Some good examples are 8.8.8.8 (Google), 9.9.9.9 (QuadNine), 1.1.1.1 (Cloudflare), and many more. Some offer unparalleled availability and access to new websites while other focus on privacy, security, and content filtering. Pihole allows you to choose the best options for your own personal use case while also importing blocklists from other sources like [Hagezi's dns-blocklist](https://github.com/hagezi/dns-blocklists?tab=readme-ov-file#overview) which will improve your security and data privacy✔️ 
 
@@ -55,6 +56,12 @@ Follow the guide below to flash the sd card, setup the raspberry pi, and connect
 
 [Back to top](#readme)
 
-###VPN Recommendations
+## VPN Recommendations
+
+What is a vpn? It is a virtual private network. A VPN hides your network traffic from tracking sources and websites that seek to make money and understand your behavior for marketing and other behavioral analysis. Most VPNs have an application that is available to use on your devices such as PCs, MACs, Streaming devices, and more. Another cool feature most folks don't know about is the wireguard and OpenVPN files these services offer. You can install this file on most routers and tunnel all your traffic through the VPN so any device connected to your home network is protected. This eases device setup and ensures you don't have to go through tedious steps to install additional applications on all of your devices and especially helps with IOT devices which may not have much or any security built into the systems. You might as which VPNs I would recommend? Check out the list below for my picks and why I like each of these services.
+
+[Back to top](#readme)
+
+
 
 
