@@ -36,7 +36,8 @@ Link 3: [WhiteboardDoodles Networking Protocols Explained](https://youtu.be/1zVZ
 Link 4: [TechHut What's on my Home Server](https://youtu.be/yUyxJr2xboI?si=aBudJaIxr0DqPBHT)
 
 
-#### **Blocking level:**
+#### **Project costs and time commitment:**
+The below table lists general guidelines for all of the projects I have completed. You could take much less time and spend less money on certain projects. Sometimes hardware can be found on sale or maybe a workplace is giving away lifecycled gear. VPN providers also offer steep discounts for first time buyers. The time commitments are generalized based on the time I took to develop and implement solutions and can vary greatly based on your skill and the equipment you purchase.
 
 | Project | Cost | Time Commitment |
 |:--------|:---------------|:--------------|
@@ -48,8 +49,6 @@ Link 4: [TechHut What's on my Home Server](https://youtu.be/yUyxJr2xboI?si=aBudJ
 | ✈️[Travel Routers](#travel-routers) | 💵💵  | 1-2 hours |
 | 🔒[Home Servicesl](#home-services)       | 🆓 (requires mini pc or nas                                                        | 1-24 hours    |
 | 📹[Camera Security](#camera-security)       | 💵💵💵💵                                                        | 3-6 hours hours    |
-
-
 
 
 
@@ -78,7 +77,7 @@ Follow the guide below to flash the sd card, setup the raspberry pi, and connect
 
 ## VPN Recommendations
 
-What is a vpn? It is a virtual private network. A VPN hides your network traffic from tracking sources and websites that seek to make money and understand your behavior for marketing and other behavioral analysis. Most VPNs have an application that is available to use on your devices such as PCs, MACs, Streaming devices, and more. Another cool feature most folks don't know about is the wireguard and OpenVPN files these services offer. You can install this file on most routers and tunnel all your traffic through the VPN so any device connected to your home network is protected. This eases device setup and ensures you don't have to go through tedious steps to install additional applications on all of your devices and especially helps with IOT devices which may not have much or any security built into the systems. You might as which VPNs I would recommend? Check out the list below for my picks and why I like each of these services.
+What is a VPN? It is a virtual private network. A VPN hides your network traffic from tracking sources and websites that seek to make money and understand your behavior for marketing and other behavioral analysis. Most VPNs have an application that is available to use on your devices such as PCs, MACs, Streaming devices, and more. Another cool feature most folks don't know about is the wireguard and OpenVPN files these services offer. You can install this file on most routers and tunnel all your traffic through the VPN so any device connected to your home network is protected. This eases device setup and ensures you don't have to go through tedious steps to install additional applications on all of your devices and especially helps with IOT devices which may not have much or any security built into the systems. You might as which VPNs I would recommend? Check out the list below for my picks and why I like each of these services.
 
 [Back to top](#readme)
 
