@@ -10,9 +10,9 @@ You can own your own data and services without paying a subscription and without
 This guide walks through a rough development of my own personal homelab and the steps I've taken to stop paying subscriptions and take back control of my data. I started my IT education in 2021 shortly before getting a job in data analytics and coding using SAS and SQL and simulataneously studying for the Comptia Security+ certification. I started building out homelab components to enhance my knowledge in the field and gain an understanding of how role based permissions work, how networking concepts work in practice, and discover what is needed for all of the services we use everyday. Another big reason I like hosting my own services is the customization and increased security, data ownership, and the ability to cut free services which harvest my data and subscription services that harvest my hard earned money. I will also like to many of the tools, programs, and creators I trust and respect in the industry along with free and open resources you can use today to build out your own systems.
 
 ## Table of Contents
-1. [Getting Started](##getting-started)
-2. [Pihole](pihole) - Block trackers and protect your privacy with this simple DNS project
-3. [VPN Recommendations](vpn) - Protect all your devices on your network and your phone on your phone on your daily travels
+1. [Getting Started](#getting-started)
+2. [Pihole](#pihole) - Block trackers and protect your privacy with this simple DNS project
+3. [VPN Recommendations](#vpn) - Protect all your devices on your network and your phone on your phone on your daily travels
 4. [Home Networking Equipment](homenet) - Customized devices to improve connectivity, security, and privacy across your home
 5. [Mini PC](mini) - Great place to start for home services
 6. [Home NAS](nas) - Tired of paying for cloud services and subscriptions? Take a look at a home NAS.
