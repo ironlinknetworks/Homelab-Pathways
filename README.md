@@ -1,5 +1,5 @@
 # *Work In Progress*
-# Homelab-Pathways
+# 🏠 Homelab-Pathways
 *Want to break into IT⁉️ Don't know where to start⁉️* With this quick guide, you can get started with your own home lab with **simple, easy to use hardware and software** that will help you get started on your journey. If you're and experienced IT pro and want some nice everyday locally hosted services, feel free to use this guide as well.
 
 You can own your own data and services without paying a subscription and without sacrificing your privacy. Follow the projects below to improve your overall Privacy and security in this modern era ‼️
@@ -10,17 +10,18 @@ You can own your own data and services without paying a subscription and without
 
 This guide walks through a rough development of my own personal homelab and the steps I've taken to stop paying subscriptions and take back control of my data. I started my IT education in 2021 shortly before getting a job in data analytics and coding using SAS and SQL and simulataneously studying for the Comptia Security+ certification. I started building out homelab components to enhance my knowledge in the field and gain an understanding of how role based permissions work, how networking concepts work in practice, and discover what is needed for all of the services we use everyday. Another big reason I like hosting my own services is the customization and increased security, data ownership, and the ability to cut free services which harvest my data and subscription services that harvest my hard earned money. I will also like to many of the tools, programs, and creators I trust and respect in the industry along with free and open resources you can use today to build out your own systems.
 
-## Table of Contents
+# 📑 Table of Contents
 1. [Getting Started](#getting-started)
 2. [Pihole](#pihole) - Block trackers and protect your privacy with this simple DNS project
 3. [VPN Recommendations](#vpn-recommendations) - Protect all your devices on your network and your phone on your phone on your daily travels
-4. [Home Networking Equipment](homenet) - Customized devices to improve connectivity, security, and privacy across your home
-5. [Mini PC](mini) - Great place to start for home services
-6. [Home NAS](nas) - Tired of paying for cloud services and subscriptions? Take a look at a home NAS.
-7. [Travel Routers](travel) - Frequent flyer? Use one of these to protect yourself and your business when traveling.
-8. [Getting Started with different Services](services) - What would I even want to run on a home server?
-9. [General Hardware and Privacy Recommendations](recs) - Who makes the best, easy to use, and privacy focues hardware and software?
-10. [Closeout](close) - Current state and future planned projects
+4. [Home Networking Equipment](#home-networking-equipment) - Customized devices to improve connectivity, security, and privacy across your home
+5. [Mini PC](#mini-pc) - Great place to start for home services
+6. [Home NAS](#home-nas) - Tired of paying for cloud services and subscriptions? Take a look at a home NAS.
+7. [Travel Routers](#travel-routers) - Frequent flyer? Use one of these to protect yourself and your business when traveling.
+8. [Getting Started with different Services](#home-services) - What would I even want to run on a home server?
+9. [General Hardware and Privacy Recommendations](#general-recommendations) - Who makes the best, easy to use, and privacy focues hardware and software?
+10. [Camera Security](#camera-security) - Secure your camera feeds and host it locally, avoid the subscription fees
+11. [Closeout](#closeout) - Current state and future planned projects
 
 ## Getting Started
 
@@ -33,6 +34,24 @@ Link 2: [Network Chuck Subnetting for Home Network](https://youtu.be/mJ_5qeqGOaI
 Link 3: [WhiteboardDoodles Networking Protocols Explained](https://youtu.be/1zVZ9cWFnCc?si=M-PAW6gMwMoxRp1M)
 
 Link 4: [TechHut What's on my Home Server](https://youtu.be/yUyxJr2xboI?si=aBudJaIxr0DqPBHT)
+
+
+#### **Blocking level:**
+
+| Project | Cost | Time Commitment |
+|:--------|:---------------|:--------------|
+| 🥧[Pihole](#pihole)        | 💵💵                                                                   | 1-2 hours    |
+| 🔒[VPNl](#vpn-recommendations)       | 💵💵                                                          | 1-2 hours    |
+| 🏠[Home Network Upgrade](#home-networking-equipment)                | 💵💵💵💵                                                           | 3 hours (depends on home size)           |
+| 💻[Mini PC](#mini-pc)     | 💵💵              | 4-5 hours |
+| 🖥️[Home NAS](#home-nas) | 💵💵💵💵💵    |                                12 hours (building raid array) |
+| ✈️[Travel Routers](#travel-routers) | 💵💵  | 1-2 hours |
+| 🔒[Home Servicesl](#home-services)       | 🆓 (requires mini pc or nas                                                        | 1-24 hours    |
+| 📹[Camera Security](#camera-security)       | 💵💵💵💵                                                        | 3-6 hours hours    |
+
+
+
+
 
 [Back to top](#readme)
 
