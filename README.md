@@ -21,7 +21,7 @@ This guide walks through a rough development of my own personal homelab and the 
 9. [General Hardware and Privacy Recommendations](recs) - Who makes the best, easy to use, and privacy focues hardware and software?
 10. [Closeout](close) - Current state and future planned projects
 
-## Where should I start, and what do I need to know? <a name="start"></a>
+## start
 
 Generally Users should know the basics about the difference betweeen LAN and WAN, internet speeds, DNS, wifi, and basic home networking information. Helpful links are included below to give you the basics and get you started. You should understand who your internet provider is. What type of connection do your devices use (wired ethernet, MoCa, WiFi etc). How many devices are you connecting? Do you use IOT devices? Are your IOT devices separated from other devices? What does my threat model include: Nation state actors, script kiddies, family members, members of the press/media, criminal organizations? How comfortable are you with coding/maintaining devices? Am I overworked and want simple plug and play/Graphical User Interface (GUI) based Management? Do you know how to login and manage your router?
 
