@@ -1,8 +1,10 @@
 # Homelab-Pathways
 *Want to break into IT? Don't know where to start?* With this quick guide, you can get started with your own home lab with **simple, easy to use hardware and software** that will help you get started on your journey. If you're and experienced IT pro and want some nice everyday locally hosted services, feel free to use this guide as well.
 
-[!Note]
-What do you need to know to start this guide
 
-Generally Users should know the basics about the difference betweeen LAN and WAN, internet speeds, DNS, wifi, and basic home networking information. 
+### What do you need to know to start this guide?
+
+Generally Users should know the basics about the difference betweeen LAN and WAN, internet speeds, DNS, wifi, and basic home networking information. Helpful links are included below to give you the basics and get you started
+
+Link 1: [Jimmy Tries World](https://www.youtube.com/watch?v=DT2ARc1NOpM&t=39s)
 
