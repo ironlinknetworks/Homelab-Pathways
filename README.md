@@ -47,7 +47,7 @@ The below table lists general guidelines for all of the projects I have complete
 | 💻[Mini PC](#mini-pc)     | 💵💵              | 4-5 hours |
 | 🖥️[Home NAS](#home-nas) | 💵💵💵💵💵    |                                12 hours (building raid array) |
 | ✈️[Travel Routers](#travel-routers) | 💵💵  | 1-2 hours |
-| 🔒[Home Servicesl](#home-services)       | 🆓 (requires mini pc or nas                                                        | 1-24 hours    |
+| 🔒[Home Services](#home-services)       | 🆓 (requires mini pc or nas                                                        | 1-24 hours    |
 | 📹[Camera Security](#camera-security)       | 💵💵💵💵                                                        | 3-6 hours hours    |
 
 
@@ -83,7 +83,7 @@ Follow the guide below to flash the sd card, setup the raspberry pi, and connect
 
 | Project | Cost | Time Commitment |
 |:--------|:---------------|:--------------|
-| 🔒[VPNl](#vpn-recommendations)       | 💵💵                                                          | 1-2 hours    |
+| 🔒[VPN](#vpn-recommendations)       | 💵💵                                                          | 1-2 hours    |
 
 What is a VPN? It is a virtual private network. A VPN hides your network traffic from tracking sources and websites that seek to make money and understand your behavior for marketing and other behavioral analysis. Most VPNs have an application that is available to use on your devices such as PCs, MACs, Streaming devices, and more. Another cool feature most folks don't know about is the wireguard and OpenVPN files these services offer. You can install this file on most routers and tunnel all your traffic through the VPN so any device connected to your home network is protected. This eases device setup and ensures you don't have to go through tedious steps to install additional applications on all of your devices and especially helps with IOT devices which may not have much or any security built into the systems. You might as which VPNs I would recommend? Check out the list below for my picks and why I like each of these services.
 
@@ -159,7 +159,7 @@ All of these routers/access points will fit your needs but selecting the correct
 
 | Project | Cost | Time Commitment |
 |:--------|:---------------|:--------------|
-| 🔒[Home Servicesl](#home-services)       | 🆓 (requires mini pc or nas                                                        | 1-24 hours    |
+| 🔒[Home Services](#home-services)       | 🆓 (requires mini pc or nas                                                        | 1-24 hours    |
 
 
 [Back to top](#readme)
