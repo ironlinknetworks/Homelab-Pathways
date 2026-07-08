@@ -42,7 +42,7 @@ The below table lists general guidelines for all of the projects I have complete
 | Project | Cost | Time Commitment |
 |:--------|:---------------|:--------------|
 | 🥧[Pihole](#pihole)        | 💵💵                                                                   | 1-2 hours    |
-| 🔒[VPNl](#vpn-recommendations)       | 💵💵                                                          | 1-2 hours    |
+| 🔒[VPN](#vpn-recommendations)       | 💵💵                                                          | 1-2 hours    |
 | 🏠[Home Network Upgrade](#home-networking-equipment)                | 💵💵💵💵                                                           | 3 hours (depends on home size)           |
 | 💻[Mini PC](#mini-pc)     | 💵💵              | 4-5 hours |
 | 🖥️[Home NAS](#home-nas) | 💵💵💵💵💵    |                                12 hours (building raid array) |
@@ -106,7 +106,7 @@ You might have heard advertisements on podcasts or on the web for services like 
 [Back to top](#readme)
 
 
-## Home Network Upgrade
+## Home Networking Equipment
 
 | Project | Cost | Time Commitment |
 |:--------|:---------------|:--------------|
