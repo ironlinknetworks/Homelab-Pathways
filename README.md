@@ -63,7 +63,7 @@ The below table lists general guidelines for all of the projects I have complete
 
 If you watched the videos in the previous post, you should have and idea of what DNS does on your network. For the older crowd, DNS works like a phone book for the internet. For the younger crowd, DNS translates IP addresses into the common names and websited you use every day. DNS is one of the backbones of the Modern Internet. If you have a baseline configured system from your internet service provider or cellular provider, you are likely using their DNS server. This allows your ISP/cellular provider to gain information on the websites you visit and gather metrics on their customer base. There are also many free options out there you can set as a default other than your ISP's DNS. Some good examples are 8.8.8.8 (Google), 9.9.9.9 (QuadNine), 1.1.1.1 (Cloudflare), and many more. Some offer unparalleled availability and access to new websites while other focus on privacy, security, and content filtering. Pihole allows you to choose the best options for your own personal use case while also importing blocklists from other sources like [Hagezi's dns-blocklist](https://github.com/hagezi/dns-blocklists?tab=readme-ov-file#overview) which will improve your security and data privacy✔️ 
 
-###What you need:
+### What you need:
 1. Raspberry Pi (various models will suffice, for utilizing the larger blocklists, a model with 6gb of ram or more will be a better option)
 2. micro sd card 16gb or 32gb (for the operating system and data storage)
 3. Laptop or PC to flash the micro sd card with raspbian OS
